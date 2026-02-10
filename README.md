@@ -44,5 +44,4 @@ Attribution is appreciated but not required.
 
 ## 👩‍💻 Maintainer
 Created and maintained by **Poonam123785**
-## 👩‍💻 Maintainer
-Created and maintained by **Poonam123785**
+
